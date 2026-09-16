@@ -80,4 +80,4 @@ A two-part Arduino project: a hand-held blaster with multiple firing modes (stan
 
 ---
 
-<p align="center"><i>Currently: R&D Test Engineer at BTL Medical & Healthcare Technologies, Prague — relocating to Vancouver, BC 🇨🇦</i></p>
+<p align="center"><i>Currently: R&D Test Engineer at BTL Medical & Healthcare Technologies, Prague </i></p>
